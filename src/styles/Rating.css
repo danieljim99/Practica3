@@ -1,0 +1,14 @@
+.Rating {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.RatingStar {
+    display: flex;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
